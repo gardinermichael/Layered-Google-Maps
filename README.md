@@ -8,9 +8,12 @@ Interactive layered Google Maps via Fusion Tables
 <h3>Applications:</h3>
 
 * Google Fusion Tables
+  * TK
 
 * Google My Maps
+  * TK
   
 <h3>Workflow:</h3>
+
 * TK
   * TK
