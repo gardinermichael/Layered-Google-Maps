@@ -4,10 +4,16 @@
 
 
 <h3>Project:</h3>
-Tasked with helping Austin Independent School District parents understand which community groups, vertical teams (i.e. which Middle School an Elementary school feeds into) and trustee zones apply to their children. 
-<p>
+Tasked with helping Austin Independent School District parents understand which community groups, vertical teams (i.e. Middle school pertaining to an Elementary school) and board trustee zones apply to their children. 
  <br>
 Created two custom Google Maps that incorporated that data into a visual display. Google My Maps was used for its integration with Google Fusion Tables, its user simplicity and its hosting capabilities, i.e. free and longterm.
+
+<h3>Maps:</h3>
+
+* [AISD Vertical Teams](http://aisd2.mgardiner.com)
+  * Default Layers: High Schools, Middle Schools, Elementary Schools.
+  * Secondary Layers: *North Austin Vertical Teams, Central Austin Vertical Teams, South Austin Vertical Teams, Special Campuses Vertical Team, Zipcodes, Community Registry – Tier 1, Community Registry – Tier 2.*
+* [AISD Schools](http://aisd2.mgardiner.com)
 
 
 <h3>Applications:</h3>
@@ -30,7 +36,7 @@ Created two custom Google Maps that incorporated that data into a visual display
 * Once dataset has been imported into My Maps, color-code to differentiate between the data nodes.
   * School Layer: Elementary Schools - **Yellow**; Middle Schools - **Green**; High Schools - **Purple**.
   * Community Registry: Split into two layers: Groups covering **large** and **small** areas. Colar gradient differentiates within each layer.
-  * Add relevant metadata if not previously linked in Fusion Tables (i.e. school board member names, contact information).
+  * Add or edit relevant metadata in My Maps (i.e. school board member names, contact information) by clicking *Open data table* in layer menu options.
 
 
 <h3>Data Sources:</h3>
