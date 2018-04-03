@@ -1,4 +1,4 @@
-# Interactive layered Google Maps via Fusion Tables
+# Interactive Layered Maps using Fusion Tables
 
 
 
