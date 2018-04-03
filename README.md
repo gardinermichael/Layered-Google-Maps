@@ -30,7 +30,7 @@ Google My Maps was used for its integration with Google Fusion Tables, its user 
   * If not, combine the two datasets by using Filters before creating a new Map view with the finished table.
 * Once dataset has been imported into My Maps, color-code to differentiate between the data nodes.
   * School Layer: Elementary Schools - **Yellow**, Middle Schools - **Green**, High Schools - **Purple**.
-  * Community Registry: Split into two layers: Groups covering **large** and **small** areas into two layers. Colar gradient differentiates within each layer.
+  * Community Registry: Split into two layers: Groups covering **large** and **small** areas. Colar gradient differentiates within each layer.
   * Add relevant metadata if not previously linked in Fusion Tables (i.e. school board member names, contact information).
 
 
