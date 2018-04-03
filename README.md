@@ -7,7 +7,7 @@
 Tasked with helping Austin Independent School District parents understand which community groups, vertical teams (i.e. middle school pertaining to elementary school) and board trustee zones apply to their children. 
 <p>
 <br>
-Created two custom Google Maps that incorporated that data into a visual display. Google My Maps was used for its integration with Google Fusion Tables, its user simplicity and its hosting capabilities, i.e. free, long-term and shareable.
+Created two custom Google Maps that incorporated that data into a visualization. Google My Maps was used for its integration with Google Fusion Tables, its user simplicity and its hosting capabilities, i.e. free, long-term and shareable.
 
 
 <h3>Applications:</h3>
@@ -43,7 +43,7 @@ Created two custom Google Maps that incorporated that data into a visual display
 
 * [Google Search](https://research.google.com/tables?corpus=fusion&hl=en&q=New+York)
   * Search tool linked above allows you to export web data into Fusion Tables (and also Google Spreadsheets).
-  * "New York" used as example query. Add file formats and what you're looking for.
+  * "New York" used as an example query. Add the file format of what you're looking for.
 * [GeoCommons](http://geocommons.com/)
   * Community sourced location-linked datasets.
 * Major Cities
