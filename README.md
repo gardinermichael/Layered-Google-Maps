@@ -7,7 +7,7 @@ Interactive layered Google Maps via Fusion Tables
 Tasked with helping Austin Independent School District parents understand which community groups, vertical teams (i.e. which Middle School an Elementary school feeds into) and trustee zones apply to their children. Created two custom Google Maps that incorporated that data into a visual display.
 <p>
  <br>
-Google My Maps was used for its integration with Google Fusion Tables, its user simplicity and its hosting capabilities (free and longterm).
+Google My Maps was used for its integration with Google Fusion Tables, its user simplicity and its hosting capabilities -- free and longterm.
 
 
 <h3>Applications:</h3>
@@ -29,7 +29,7 @@ Google My Maps was used for its integration with Google Fusion Tables, its user 
   * If a dataset already links location data to metadata, create a new Map view.
   * If not, combine the two datasets by using Filters before creating a new Map view with the finished table.
 * Once dataset has been imported into My Maps, color-code to differentiate between the data nodes.
-  * School Layer: Elementary Schools - **Yellow**, Middle Schools - **Green**, High Schools - **Purple**.
+  * School Layer: Elementary Schools - **Yellow**; Middle Schools - **Green**; High Schools - **Purple**.
   * Community Registry: Split into two layers: Groups covering **large** and **small** areas. Colar gradient differentiates within each layer.
   * Add relevant metadata if not previously linked in Fusion Tables (i.e. school board member names, contact information).
 
