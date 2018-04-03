@@ -9,15 +9,6 @@ Tasked with helping Austin Independent School District parents understand which 
 <br>
 Created two custom Google Maps that incorporated that data into a visual display. Google My Maps was used for its integration with Google Fusion Tables, its user simplicity and its hosting capabilities, i.e. free and longterm.
 
-<h3>Maps:</h3>
-
-* [AISD Vertical Teams](http://aisd2.mgardiner.com)
-  * Default Layers: *High Schools*, *Middle Schools*, *Elementary Schools*.
-  * Secondary Layers: *North Austin Vertical Teams*, *Central Austin Vertical Teams*, *South Austin Vertical Teams*, *Special Campuses Vertical Team*, *Zipcodes*, *Community Registry – Tier 1*, *Community Registry – Tier 2*.
-* [AISD Schools](http://aisd2.mgardiner.com)
-  * Default Layers: *High Schools*, *Middle Schools*, *Elementary Schools*, *Trustee Member Districts*.
-  * Secondary Layers: *District Boundary*, *HS Attendance Boundaries*, *MS Attendance Boundaries*, *ES Attendance Boundaries*, *Zipcodes*.
-
 
 <h3>Applications:</h3>
 
@@ -25,7 +16,14 @@ Created two custom Google Maps that incorporated that data into a visual display
   * Similar to Google Spreadsheets but with added capabilities. Emphasis on data visualization and manipulation. 
 * [Google My Maps](https://www.google.com/maps/d/)
   * Allows you to make custom maps on the Google Maps platform. Map users can select which layers they want to view simultaneously.
-  
+
+<h3>Maps:</h3>
+
+* [AISD Vertical Teams](http://aisd2.mgardiner.com)
+  * Layers: ***High Schools***, ***Middle Schools***, ***Elementary Schools***, *North Austin Vertical Teams*, *Central Austin Vertical Teams*, *South Austin Vertical Teams*, *Special Campuses Vertical Team*, *Zipcodes*, *Community Registry – Tier 1*, *Community Registry – Tier 2*.
+* [AISD Schools](http://aisd2.mgardiner.com)
+  * Layers: ***High Schools***, ***Middle Schools***, ***Elementary Schools***, ***Trustee Member Districts***, *District Boundary*, *HS Attendance Boundaries*, *MS Attendance Boundaries*, *ES Attendance Boundaries*, *Zipcodes*.
+
 <h3>Workflow:</h3>
 
 * Find datasets that link location data to metadata (i.e. school zone boundaries to school names).
