@@ -4,17 +4,16 @@
 
 
 <h3>Project:</h3>
-Tasked with helping Austin Independent School District parents understand which community groups, vertical teams (i.e. which Middle School an Elementary school feeds into) and trustee zones apply to their children. Created two custom Google Maps that incorporated that data into a visual display.
+Tasked with helping Austin Independent School District parents understand which community groups, vertical teams (i.e. which Middle School an Elementary school feeds into) and trustee zones apply to their children. 
 <p>
  <br>
-Google My Maps was used for its integration with Google Fusion Tables, its user simplicity and its hosting capabilities -- free and longterm.
+Created two custom Google Maps that incorporated that data into a visual display. Google My Maps was used for its integration with Google Fusion Tables, its user simplicity and its hosting capabilities, i.e. free and longterm.
 
 
 <h3>Applications:</h3>
 
 * [Google Fusion Tables](https://support.google.com/fusiontables/answer/2571232?hl=en)
   * Similar to Google Spreadsheets but with added capabilities. Emphasis on data visualization and manipulation. 
-
 * [Google My Maps](https://www.google.com/maps/d/)
   * Allows you to make custom maps on the Google Maps platform. Map users can select which layers they want to view simultaneously.
   
