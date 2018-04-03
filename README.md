@@ -7,7 +7,7 @@
 Tasked with helping Austin Independent School District parents understand which community groups, vertical teams (i.e. Middle school pertaining to an Elementary school) and board trustee zones apply to their children. 
 <p>
 <br>
-Created two custom Google Maps that incorporated that data into a visual display. Google My Maps was used for its integration with Google Fusion Tables, its user simplicity and its hosting capabilities, i.e. free and longterm.
+Created two custom Google Maps that incorporated that data into a visual display. Google My Maps was used for its integration with Google Fusion Tables, its user simplicity and its hosting capabilities, i.e. free, long-term and shareable.
 
 
 <h3>Applications:</h3>
