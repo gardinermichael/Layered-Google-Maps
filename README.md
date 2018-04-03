@@ -1,4 +1,4 @@
-# Layered-Google-Maps
+# Layered Google Maps
 Interactive layered Google Maps via Fusion Tables
 
 
@@ -34,7 +34,7 @@ Google My Maps was used for its integration with Google Fusion Tables, its user 
   * Add relevant metadata if not previously linked in Fusion Tables (i.e. school board member names, contact information).
 
 
-<h3>Data Sources</h3>
+<h3>Data Sources:</h3>
 
 * [Google Search](https://research.google.com/tables?corpus=fusion&hl=en&q=New+York)
   * Search tool linked above allows you to export web data into Fusion Tables (and also Google Spreadsheets).
