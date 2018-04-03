@@ -1,5 +1,5 @@
-# Layered Google Maps
-Interactive layered Google Maps via Fusion Tables
+# Interactive layered Google Maps via Fusion Tables
+
 
 
 
