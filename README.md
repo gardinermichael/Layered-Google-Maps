@@ -11,9 +11,11 @@ Created two custom Google Maps that incorporated that data into a visual display
 <h3>Maps:</h3>
 
 * [AISD Vertical Teams](http://aisd2.mgardiner.com)
-  * Default Layers: High Schools, Middle Schools, Elementary Schools.
-  * Secondary Layers: *North Austin Vertical Teams, Central Austin Vertical Teams, South Austin Vertical Teams, Special Campuses Vertical Team, Zipcodes, Community Registry – Tier 1, Community Registry – Tier 2.*
+  * Default Layers: *High Schools*, *Middle Schools*, *Elementary Schools*.
+  * Secondary Layers: *North Austin Vertical Teams*, *Central Austin Vertical Teams*, *South Austin Vertical Teams*, *Special Campuses Vertical Team*, *Zipcodes*, *Community Registry – Tier 1*, *Community Registry – Tier 2*.
 * [AISD Schools](http://aisd2.mgardiner.com)
+  * Default Layers: *High Schools*, *Middle Schools*, *Elementary Schools*, *Trustee Member Districts*.
+  * Secondary Layers: *District Boundary*, *HS Attendance Boundaries*, *MS Attendance Boundaries*, *ES Attendance Boundaries*, *Zipcodes*.
 
 
 <h3>Applications:</h3>
