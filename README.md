@@ -39,7 +39,7 @@ Created two custom Google Maps that incorporated that data into a visualization.
   * Add or edit relevant metadata in My Maps (i.e. school board member names, contact information) by clicking *Open data table* in layer menu options.
 
 
-<h3>Data Sources:</h3>
+<h3>Miscellaneous Data Sources:</h3>
 
 * [Google Search](https://research.google.com/tables?corpus=fusion&hl=en&q=New+York)
   * Search tool linked above allows you to export web data into Fusion Tables (and also Google Spreadsheets).
