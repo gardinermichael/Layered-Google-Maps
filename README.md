@@ -4,7 +4,7 @@
 
 
 <h3>Project:</h3>
-Tasked with helping Austin Independent School District parents understand which community groups, vertical teams (i.e. middle school pertaining to elementary school) and board trustee zones apply to their children, these two custom Google Maps that incorporate that data into a visualization.
+Tasked with helping Austin Independent School District parents understand which community groups, vertical teams (i.e. middle school pertaining to elementary school) and board trustee zones apply to their children, these two custom Google Maps incorporate that data into a visualization.
 
 <h3>Applications:</h3>
 
